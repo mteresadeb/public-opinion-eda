@@ -51,7 +51,7 @@ public-opinion-eda/
 │   └── eda_walkthrough.ipynb    # Full EDA walkthrough
 │
 ├── scripts/
-│   └── eda_pipeline.py          # Reusable EDA pipeline
+│   └── eda_public_opinion.py          # Reusable EDA pipeline
 │
 └── README.md
 ```

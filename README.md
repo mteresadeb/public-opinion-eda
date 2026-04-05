@@ -1,4 +1,4 @@
-# Public Opinion EDA — Institutional Trust
+# Public Opinion EDA: Institutional Trust
 
 Exploratory data analysis of public opinion survey data on institutional trust.
 

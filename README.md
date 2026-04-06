@@ -10,7 +10,7 @@ This project demonstrates how to work with national survey data to produce struc
 
 How much do people trust the institutions that shape their lives?
 
-Trust in institutions — government, judiciary, media, armed forces, religious organizations — is one of the most studied dimensions in public opinion research. It shapes political participation, social cohesion, and the legitimacy of democratic systems.
+Trust in institutions (government, judiciary, media, armed forces, religious organizations) is one of the most studied dimensions in public opinion research. It shapes political participation, social cohesion, and the legitimacy of democratic systems.
 
 This project shows how to explore that question systematically using survey data: measuring levels, mapping variation across demographic groups, identifying patterns, and communicating findings clearly.
 
